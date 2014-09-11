@@ -1,11 +1,11 @@
 ddg2google
 ==========
 
-## Usage
+### Usage
 
-Quite simple : when on a DuckDuckGo result page, just press `Alt+g` to go to the Google results page for the same query.
+Quite simple : when on a DuckDuckGo results page, just press `Alt+g` to go to the Google results page for the same query.
 
-## Installation
+### Installation
 
 As this is a user script, you have to install the ad hoc browser extension first :
 
@@ -16,7 +16,7 @@ Then, just visit the user script URL :
 
 https://github.com/juba/ddg2google/raw/master/ddg2google.user.js
 
-## Motivation
+### Motivation
 
 As I am quite lazy, having to type `h` `!g ` `Return` each time I wanted to go to a Google results page from DuckDuckGo was way too tiresome.
 
