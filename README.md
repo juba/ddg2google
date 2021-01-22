@@ -9,8 +9,8 @@ Quite simple : when on a DuckDuckGo results page, just press `Alt+g` to go to th
 
 As this is a user script, you have to install the ad hoc browser extension first :
 
-- Firefox users, install [Scriptish](https://addons.mozilla.org/firefox/addon/scriptish/)
-- Chrome/Chromium users, install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- Firefox users, install [Tampermonkey](https://addons.mozilla.org/fr/firefox/addon/tampermonkey/) or [Violentmonkey](https://addons.mozilla.org/fr/firefox/addon/violentmonkey/)
+- Chrome/Chromium users, install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 
 Then, just visit the user script URL :
 

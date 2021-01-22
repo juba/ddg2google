@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name       ddg2google
 // @namespace  http://nozav.org/
-// @version    0.2
+// @version    0.2.1
 // @description  Keyboard shortcut to send a DuckDuckGo query to Google
-// @match      http*://*duckduckgo.com/*
+// @match      http*://duckduckgo.com/*
+// @match      http*://next.duckduckgo.com/*
 // @copyright  2014, Julien Barnier
 // ==/UserScript==
 
