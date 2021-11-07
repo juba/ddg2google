@@ -15,15 +15,15 @@ function doc_keyUp(e) {
             //g
             if (e.altKey) {
                 // ddg
-        	    let search_field = document.getElementById("search_form_input");
+                let search_field = document.getElementById("search_form_input");
                 // brave
                 if (search_field === null) {
                     search_field = document.getElementById("searchbox");
                 }
                 const search_string = escape(search_field.value)
-        		window.location = "https://www.google.com/search?q=" + search_string;
+                window.location = "https://www.google.com/search?q=" + search_string;
             }
-        break;
+            break;
     }
 }
 
