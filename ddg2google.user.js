@@ -21,7 +21,7 @@ function doc_keyUp(e) {
                     search_field = document.getElementById("searchbox");
                 }
                 const search_string = escape(search_field.value)
-        		window.location = "https://encrypted.google.com/search?q=" + search_string;
+        		window.location = "https://www.google.com/search?q=" + search_string;
             }
         break;
     }
